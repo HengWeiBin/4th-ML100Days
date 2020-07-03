@@ -1,8 +1,8 @@
 
 homework/.ipynb_checkpoints/
+homework/answers/
+homework/pdf/
+homework/example/
+homework/data/
 *.csv
 *.gz
-homework/Day_011_handle_outliers.ipynb
-homework/Day_012_Fill_NaN_and_Scalers.ipynb
-homework/Day_013_dataFrame_operation.ipynb
-homework/Day_013_dataFrame_operation_Ans.ipynb
