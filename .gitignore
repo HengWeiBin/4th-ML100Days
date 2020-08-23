@@ -4,5 +4,6 @@ homework/answers/
 homework/pdf/
 homework/example/
 homework/data/
+homework/saved_models/
 *.csv
 *.gz
