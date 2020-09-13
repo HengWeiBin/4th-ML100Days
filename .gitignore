@@ -7,3 +7,5 @@ homework/data/
 homework/saved_models/
 *.csv
 *.gz
+*.pyc
+*.py
